@@ -14990,7 +14990,7 @@ function JA() {
       alt: "",
       className: "w-[1000px] ",
       style: {
-       marginTop: "30px",
+       //marginTop: "30px",
       },
      }),
      L.jsxs("div", {
